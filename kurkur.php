@@ -83,7 +83,6 @@ function change(){
         sleep(1);
         sleep(3);
 	}
-	gofood:
 	echo "\n".color("blue","!] PILISS BISA EUYYY YANG INI A");
         echo "\n".color("yellow","!] Please wait");
         for($a=1;$a<=3;$a++){
